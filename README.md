@@ -17,77 +17,77 @@ I am a highly skilled and experienced Mobile App Developer specializing in 𝐂�
 ● React Native: JavaScript/TypeScript, Expo & CLI, React Navigation, Redux/MobX, Native Modules integration<br/>
 ● Ionic: Frameworks integration with React, Vue.js, AngularJS, Capacitor, Cordova<br/>
 ● Xamarin / .NET MAUI: C#, Xamarin.Forms, .NET Multi-platform App UI, MVVM pattern, XAML-based UI<br/>
-𝑩𝒂𝒄𝒌𝒆𝒏𝒅 𝒂𝒏𝒅 𝑨𝑷𝑰 𝑰𝒏𝒕𝒆𝒈𝒓𝒂𝒕𝒊𝒐𝒏
-● RESTful API consumption and integration, HTTP protocol management
-● JSON parsing and serialization
-● XML data handling and parsing
-● Authentication and Authorization (OAuth, JWT)
-● API testing tools (Postman, Insomnia)
-𝑫𝒂𝒕𝒂𝒃𝒂𝒔𝒆 𝒂𝒏𝒅 𝑪𝒍𝒐𝒖𝒅 𝑺𝒕𝒐𝒓𝒂𝒈𝒆
-● SQLite database integration and management
-● Firebase Realtime Database, Firestore, Firebase Authentication, Cloud Functions
-● Local storage and caching mechanisms
-● ORM tools for data persistence and management
-𝑫𝒆𝒑𝒍𝒐𝒚𝒎𝒆𝒏𝒕 𝒂𝒏𝒅 𝑷𝒖𝒃𝒍𝒊𝒔𝒉𝒊𝒏𝒈
-● Apple App Store deployment (TestFlight, App Store Connect, App Review Guidelines)
-● Google Play Store deployment (Play Console, Beta testing, Android App Bundles)
-● Monitoring and analytics (Firebase Analytics, Crashlytics, App Store Analytics)
-𝑷𝒓𝒐𝒇𝒆𝒔𝒔𝒊𝒐𝒏𝒂𝒍 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕 𝑷𝒓𝒂𝒄𝒕𝒊𝒄𝒆𝒔
-● Agile methodologies (Scrum, Kanban)
-● Code quality and maintainability (SOLID principles, Clean Code)
-● Documentation (Technical documentation, API documentation, README preparation)
-● Team collaboration and communication (Slack, Jira, Trello, Confluence)
+𝑩𝒂𝒄𝒌𝒆𝒏𝒅 𝒂𝒏𝒅 𝑨𝑷𝑰 𝑰𝒏𝒕𝒆𝒈𝒓𝒂𝒕𝒊𝒐𝒏<br/>
+● RESTful API consumption and integration, HTTP protocol management<br/>
+● JSON parsing and serialization<br/>
+● XML data handling and parsing<br/>
+● Authentication and Authorization (OAuth, JWT)<br/>
+● API testing tools (Postman, Insomnia)<br/>
+𝑫𝒂𝒕𝒂𝒃𝒂𝒔𝒆 𝒂𝒏𝒅 𝑪𝒍𝒐𝒖𝒅 𝑺𝒕𝒐𝒓𝒂𝒈𝒆<br/>
+● SQLite database integration and management<br/>
+● Firebase Realtime Database, Firestore, Firebase Authentication, Cloud Functions<br/>
+● Local storage and caching mechanisms<br/>
+● ORM tools for data persistence and management<br/>
+𝑫𝒆𝒑𝒍𝒐𝒚𝒎𝒆𝒏𝒕 𝒂𝒏𝒅 𝑷𝒖𝒃𝒍𝒊𝒔𝒉𝒊𝒏𝒈<br/>
+● Apple App Store deployment (TestFlight, App Store Connect, App Review Guidelines)<br/>
+● Google Play Store deployment (Play Console, Beta testing, Android App Bundles)<br/>
+● Monitoring and analytics (Firebase Analytics, Crashlytics, App Store Analytics)<br/>
+𝑷𝒓𝒐𝒇𝒆𝒔𝒔𝒊𝒐𝒏𝒂𝒍 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕 𝑷𝒓𝒂𝒄𝒕𝒊𝒄𝒆𝒔<br/>
+● Agile methodologies (Scrum, Kanban)<br/>
+● Code quality and maintainability (SOLID principles, Clean Code)<br/>
+● Documentation (Technical documentation, API documentation, README preparation)<br/>
+● Team collaboration and communication (Slack, Jira, Trello, Confluence)<br/>
 
 ✌ 𝐀𝐝𝐝𝐢𝐭𝐢𝐨𝐧𝐚𝐥 𝐒𝐤𝐢𝐥𝐥𝐬 ✌
 
 𝑰𝒎𝒂𝒈𝒆 𝑮𝒆𝒏𝒆𝒓𝒂𝒕𝒊𝒐𝒏 𝒂𝒏𝒅 𝑪𝒐𝒎𝒑𝒖𝒕𝒆𝒓 𝑽𝒊𝒔𝒊𝒐𝒏 𝑻𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒊𝒆𝒔
 
-🌟 Generative Models:
-GANs, DeepDream, DALL-E, CLIP, Stable Diffusion
-🌟 Frameworks and Libraries:
-TensorFlow, PyTorch, Keras, OpenCV, Scikit-image, Caffe2
-🌟 Detection and Recognition:
-Detectron, YOLO (You Only Look Once), Tesseract OCR (Optical Character Recognition)
+🌟 Generative Models:<br/>
+GANs, DeepDream, DALL-E, CLIP, Stable Diffusion<br/>
+🌟 Frameworks and Libraries:<br/>
+TensorFlow, PyTorch, Keras, OpenCV, Scikit-image, Caffe2<br/>
+🌟 Detection and Recognition:<br/>
+Detectron, YOLO (You Only Look Once), Tesseract OCR (Optical Character Recognition)<br/>
 
 𝑪𝒐𝒏𝒗𝒆𝒓𝒔𝒂𝒕𝒊𝒐𝒏𝒂𝒍 𝑨𝑰 & 𝑪𝒂𝒍𝒍𝒊𝒏𝒈 𝑨𝒈𝒆𝒏𝒕 𝑻𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒊𝒆𝒔
 
-🌟 Core Speech Technologies:.
-Speech Synthesis (Text-to-Speech): Google Text-to-Speech API, Microsoft Azure Speech SDK, DeepVoice
-Automatic Speech Recognition (ASR): Google Duplex, Microsoft DeepSpeech, Mozilla DeepSpeech, Deepgram, SpeechRecognition
-🌟 Conversational Platforms & Frameworks
-Microsoft Bot Framework
-Rasa
+🌟 Core Speech Technologies:<br/>
+Speech Synthesis (Text-to-Speech): Google Text-to-Speech API, Microsoft Azure Speech SDK, DeepVoice<br/>
+Automatic Speech Recognition (ASR): Google Duplex, Microsoft DeepSpeech, Mozilla DeepSpeech, Deepgram, SpeechRecognition<br/>
+🌟 Conversational Platforms & Frameworks<br/>
+Microsoft Bot Framework<br/>
+Rasa<br/>
 
 🎖 𝑨𝒅𝒅𝒊𝒕𝒊𝒐𝒏𝒂𝒍 𝑳𝒊𝒃𝒓𝒂𝒓𝒊𝒆𝒔 𝒂𝒏𝒅 𝑭𝒓𝒂𝒎𝒆𝒘𝒐𝒓𝒌𝒔 🎖
 
-● Connectivity: Bluetooth, Wi-Fi, NFC
-● Networking: Retrofit, Alamofire, Dio
-● Image Processing: Glide, Fresco, SDWebImage, ImagePicker
-● Data Visualization: Charts, MPAndroidChart, Flare
-● Location Services: Google Maps API, MapKit, Geolocator
-● Push Notifications: Firebase Cloud Messaging, OneSignal
-● Analytics: Google Analytics, Firebase Analytics, AppCenter Analytics
-● Payment Integration: Stripe, PayPal, Braintree
-● Social Media Integration: Facebook SDK, Twitter API, Google Sign-In
+● Connectivity: Bluetooth, Wi-Fi, NFC<br/>
+● Networking: Retrofit, Alamofire, Dio<br/>
+● Image Processing: Glide, Fresco, SDWebImage, ImagePicker<br/>
+● Data Visualization: Charts, MPAndroidChart, Flare<br/>
+● Location Services: Google Maps API, MapKit, Geolocator<br/>
+● Push Notifications: Firebase Cloud Messaging, OneSignal<br/>
+● Analytics: Google Analytics, Firebase Analytics, AppCenter Analytics<br/>
+● Payment Integration: Stripe, PayPal, Braintree<br/>
+● Social Media Integration: Facebook SDK, Twitter API, Google Sign-In<br/>
 
-With a comprehensive background in mobile development, I have successfully delivered a wide range of applications tailored to my clients' specific requirements.
-I have developed applications for industries such as
-🗣️ Social Networking
-💕 Dating
-🛒 E-commerce & Shopping
-💳 Finance & Banking
-🏥💪 Healthcare & Fitness
-🎓 Education & E-Learning
-🚗🛵 On-Demand Services
-✈️🏨 Travel & Hospitality
-📅🛠️ Productivity & Utilities
-🎬🎧 Entertainment & Media
-📰 News & Magazines
-📷🎥 Photography & Video
-💬📱 Messaging & Communication
-🏡 Real Estate
-🍔🍽️ Food & Restaurant
-🎫 Event & Ticketing
+With a comprehensive background in mobile development, I have successfully delivered a wide range of applications tailored to my clients' specific requirements.<br/>
+I have developed applications for industries such as<br/>
+🗣️ Social Networking<br/>
+💕 Dating<br/>
+🛒 E-commerce & Shopping<br/>
+💳 Finance & Banking<br/>
+🏥💪 Healthcare & Fitness<br/>
+🎓 Education & E-Learning<br/>
+🚗🛵 On-Demand Services<br/>
+✈️🏨 Travel & Hospitality<br/>
+📅🛠️ Productivity & Utilities<br/>
+🎬🎧 Entertainment & Media<br/>
+📰 News & Magazines<br/>
+📷🎥 Photography & Video<br/>
+💬📱 Messaging & Communication<br/>
+🏡 Real Estate<br/>
+🍔🍽️ Food & Restaurant<br/>
+🎫 Event & Ticketing<br/>
 I excel at creating visually appealing, high-performance, and user-friendly mobile applications across multiple platforms.</p>
 
 </div>
