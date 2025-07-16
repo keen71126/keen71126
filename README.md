@@ -9,14 +9,14 @@ I am a highly skilled and experienced Mobile App Developer specializing in 𝐂�
 
 ✌ 𝗠𝘆 𝗦𝗸𝗶𝗹𝗹𝘀 ✌
 
-𝑵𝒂𝒕𝒊𝒗𝒆 𝑷𝒍𝒂𝒕𝒇𝒐𝒓𝒎 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕:
-● iOS Development: Swift, SwiftUI, Objective-C, UIKit, CoreData, AutoLayout, Storyboards, Xcode
-● Android Development: Kotlin, Java, Android SDK, Jetpack Compose, Android Studio, XML-based layouts
-𝑪𝒓𝒐𝒔𝒔-𝑷𝒍𝒂𝒕𝒇𝒐𝒓𝒎 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕
-● Flutter: Dart programming language, Flutter Widgets, Cupertino and Material Design, State Management (Provider, Bloc, GetX)
-● React Native: JavaScript/TypeScript, Expo & CLI, React Navigation, Redux/MobX, Native Modules integration
-● Ionic: Frameworks integration with React, Vue.js, AngularJS, Capacitor, Cordova
-● Xamarin / .NET MAUI: C#, Xamarin.Forms, .NET Multi-platform App UI, MVVM pattern, XAML-based UI
+𝑵𝒂𝒕𝒊𝒗𝒆 𝑷𝒍𝒂𝒕𝒇𝒐𝒓𝒎 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕:<br/>
+● iOS Development: Swift, SwiftUI, Objective-C, UIKit, CoreData, AutoLayout, Storyboards, Xcode<br/>
+● Android Development: Kotlin, Java, Android SDK, Jetpack Compose, Android Studio, XML-based layouts<br/>
+𝑪𝒓𝒐𝒔𝒔-𝑷𝒍𝒂𝒕𝒇𝒐𝒓𝒎 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕<br/>
+● Flutter: Dart programming language, Flutter Widgets, Cupertino and Material Design, State Management (Provider, Bloc, GetX)<br/>
+● React Native: JavaScript/TypeScript, Expo & CLI, React Navigation, Redux/MobX, Native Modules integration<br/>
+● Ionic: Frameworks integration with React, Vue.js, AngularJS, Capacitor, Cordova<br/>
+● Xamarin / .NET MAUI: C#, Xamarin.Forms, .NET Multi-platform App UI, MVVM pattern, XAML-based UI<br/>
 𝑩𝒂𝒄𝒌𝒆𝒏𝒅 𝒂𝒏𝒅 𝑨𝑷𝑰 𝑰𝒏𝒕𝒆𝒈𝒓𝒂𝒕𝒊𝒐𝒏
 ● RESTful API consumption and integration, HTTP protocol management
 ● JSON parsing and serialization
