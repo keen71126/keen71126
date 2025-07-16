@@ -3,7 +3,7 @@
 <h1 align="center">𝑬𝒙𝒑𝒆𝒓𝒕 𝑴𝒐𝒃𝒊𝒍𝒆 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 | 𝑴𝒐𝒃𝒊𝒍𝒆 𝑨𝒓𝒄𝒉𝒊𝒕𝒆𝒄𝒕 | 𝑨𝑰 𝑰𝒏𝒕𝒆𝒈𝒓𝒂𝒕𝒊𝒐𝒏 | 𝑺𝑴𝑴</h1>
 
 <div>
-<pre>✩░▒▓▆▅▃▂▁👋😀 𝐆𝐫𝐞𝐞𝐭𝐢𝐧𝐠𝐬! 👋😄▁▂▃▅▆▓▒░✩
+<p>✩░▒▓▆▅▃▂▁👋😀 𝐆𝐫𝐞𝐞𝐭𝐢𝐧𝐠𝐬! 👋😄▁▂▃▅▆▓▒░✩
 
 I am a highly skilled and experienced Mobile App Developer specializing in 𝐂𝐫𝐨𝐬𝐬-𝐏𝐥𝐚𝐭𝐟𝐨𝐫𝐦 development using 𝑭𝒍𝒖𝒕𝒕𝒆𝒓, 𝑹𝒆𝒂𝒄𝒕 𝑵𝒂𝒕𝒊𝒗𝒆 (𝑬𝒙𝒑𝒐 & 𝑪𝑳𝑰), 𝑰𝒐𝒏𝒊𝒄 (𝑹𝒆𝒂𝒄𝒕/𝑽𝒖𝒆.𝒋𝒔/𝑨𝒏𝒈𝒖𝒍𝒂𝒓𝑱𝑺), 𝑿𝒂𝒎𝒂𝒓𝒊𝒏, .𝑵𝑬𝑻 𝑴𝑨𝑼𝑰, and 𝐍𝐚𝐭𝐢𝐯𝐞-𝐏𝐥𝐚𝐭𝐟𝐨𝐫𝐦 development using 𝑺𝒘𝒊𝒇𝒕(SwiftUI/UIKit/Objective-C) for iOS, 𝑲𝒐𝒕𝒍𝒊𝒏, 𝑱𝒂𝒗𝒂 for Android. With a strong focus on delivering exceptional mobile experiences, I have successfully developed and launched numerous applications across various industries. I am dedicated to delivering top-notch work, ensuring high quality, and providing timely updates to my clients.
 
@@ -88,7 +88,7 @@ I have developed applications for industries such as
 🏡 Real Estate
 🍔🍽️ Food & Restaurant
 🎫 Event & Ticketing
-I excel at creating visually appealing, high-performance, and user-friendly mobile applications across multiple platforms.</pre>
+I excel at creating visually appealing, high-performance, and user-friendly mobile applications across multiple platforms.</p>
 
 </div>
 
