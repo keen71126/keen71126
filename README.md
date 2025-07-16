@@ -70,7 +70,7 @@ Rasa<br/>
 ● Payment Integration: Stripe, PayPal, Braintree<br/>
 ● Social Media Integration: Facebook SDK, Twitter API, Google Sign-In<br/>
 
-With a comprehensive background in mobile development, I have successfully delivered a wide range of applications tailored to my clients' specific requirements.<br/>
+With a comprehensive background in mobile development, I have successfully delivered a wide range of applications tailored to my client's specific requirements.
 I have developed applications for industries such as<br/>
 🗣️ Social Networking<br/>
 💕 Dating<br/>
