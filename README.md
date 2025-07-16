@@ -52,11 +52,11 @@ Detectron, YOLO (You Only Look Once), Tesseract OCR (Optical Character Recogniti
 𝑪𝒐𝒏𝒗𝒆𝒓𝒔𝒂𝒕𝒊𝒐𝒏𝒂𝒍 𝑨𝑰 & 𝑪𝒂𝒍𝒍𝒊𝒏𝒈 𝑨𝒈𝒆𝒏𝒕 𝑻𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒊𝒆𝒔
 
 🌟 Core Speech Technologies:.
-- Speech Synthesis (Text-to-Speech): Google Text-to-Speech API, Microsoft Azure Speech SDK, DeepVoice
-- Automatic Speech Recognition (ASR): Google Duplex, Microsoft DeepSpeech, Mozilla DeepSpeech, Deepgram, SpeechRecognition
+Speech Synthesis (Text-to-Speech): Google Text-to-Speech API, Microsoft Azure Speech SDK, DeepVoice
+Automatic Speech Recognition (ASR): Google Duplex, Microsoft DeepSpeech, Mozilla DeepSpeech, Deepgram, SpeechRecognition
 🌟 Conversational Platforms & Frameworks
-- Microsoft Bot Framework
-- Rasa
+Microsoft Bot Framework
+Rasa
 
 🎖 𝑨𝒅𝒅𝒊𝒕𝒊𝒐𝒏𝒂𝒍 𝑳𝒊𝒃𝒓𝒂𝒓𝒊𝒆𝒔 𝒂𝒏𝒅 𝑭𝒓𝒂𝒎𝒆𝒘𝒐𝒓𝒌𝒔 🎖
 
